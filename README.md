@@ -20,3 +20,13 @@ I'm a passionate full-stack developer currently employed at The Supportive Care.
  Tailwind CSS,
  HTML,
  CSS...
+
+## 🚀 Recent Project: YouTube Clone
+
+I recently updated my old project, YouTube Clone, with the following features:
+
+- **Infinite-scroll**: Automatically fetch additional videos when the user reaches the end of the page for a seamless browsing experience.
+- **Custom feed**: Implemented a feed algorithm that displays videos based on the user's selected categories, providing a personalized and relevant video feed.
+- **Categories management**: Enhanced the ability for users to add or remove videos from the saved categories section, facilitating quick searches for videos in specific categories, which also affects the feed algorithm.
+
+Check out the project [here](https://chimerical-banoffee-b31920.netlify.app/) to explore these new features and see how they enhance the overall functionality and user experience.
