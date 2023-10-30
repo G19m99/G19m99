@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Gershon (Gershy)! 👋
 
-<!--
-**G19m99/G19m99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer currently employed at The Supportive Care. My expertise lies in building robust and complex applications using C#, ASP.NET, SQL Server, React, and JavaScript. I specialize in developing user-friendly solutions for intricate problems, enabling smoother transitions in the ever-evolving field of mental health. I thrive in dynamic environments and am currently exploring advanced topics in data structures, algorithms, and software design patterns, dedicated to continuous growth and learning in the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/G19m99)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gershon-menzer-8a93a5231)
+
+
+
+## 🛠 Skills
+ C#,
+ ASP.NET,
+ SQL,
+ SQL Server,
+ JavaScript,
+ React.js,
+ Tailwind CSS,
+ HTML,
+ CSS...
