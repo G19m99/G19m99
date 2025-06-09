@@ -20,12 +20,12 @@ I'm a passionate full-stack developer currently employed at The Supportive Care.
  HTML,
  CSS...
 
-## 🚀 Recent Project: YouTube Clone
+## 🚀 Recent Project: OpenTow
 
-I recently updated my old project, YouTube Clone, with the following features:
+I recently built **OpenTow**, a real-time, multi-tenant dispatch SaaS platform for towing fleets with the following features:
 
-- **Infinite-scroll**: Automatically fetch additional videos when the user reaches the end of the page for a seamless browsing experience.
-- **Custom feed**: Implemented a feed algorithm that displays videos based on the user's selected categories, providing a personalized and relevant video feed.
-- **Categories management**: Enhanced the ability for users to add or remove videos from the saved categories section, facilitating quick searches for videos in specific categories, which also affects the feed algorithm.
+- **Open job queue**: Drivers can browse and claim jobs from a shared queue instead of being assigned, supporting a more flexible dispatch workflow.  
+- **Reactive updates**: All job status changes are synced in real time across all users using [Convex](https://convex.dev/), ensuring accurate and up-to-date info.  
+- **Modern tech stack**: Built with React, TailwindCSS, and ShadCN UI components for a fast, clean, and responsive user experience.
 
-Check out the project [here](https://chimerical-banoffee-b31920.netlify.app/) to explore these new features and see how they enhance the overall functionality and user experience.
+Check out the repo [here](https://github.com/G19m99/OpenTow) to explore the code and architecture behind the app, and the demo [here](https://opentow.netlify.app) 
